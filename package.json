@@ -1,7 +1,7 @@
 {
   "private": "true",
   "scripts": {
-    "start": "echo Hello world!"
+    "lint": "eslint js.js"
   },
   "dependencies": {
     "eslint": "^2.12.0"
